@@ -1,5 +1,3 @@
-from datetime import datetime
-
 class Course:
     def __init__(self, course_id, course_starts, course_ends, course_day, student_capacity, credit):
         self.course_id = course_id
